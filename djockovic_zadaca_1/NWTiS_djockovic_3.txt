@@ -1,0 +1,13 @@
+#NWTiS 2021.
+#Tue Mar 09 15:22:47 CET 2021
+port=8002
+maks.cekaca=10
+maks.cekanje=77
+maks.dretvi=5
+sinkronizacija.trajanje=300000
+datoteka.aerodroma=aerodromi.csv
+datoteka.dnevnika=djockovic_dnevnik_1.csv
+server.provjera.adresa=localhost
+server.provjera.port=8000
+server.udaljenosti.adresa=localhost
+server.udaljenosti.port=8001

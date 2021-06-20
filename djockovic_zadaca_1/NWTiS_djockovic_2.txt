@@ -1,0 +1,6 @@
+#NWTiS 2021.
+#Tue Mar 09 15:22:47 CET 2021
+port=8001
+maks.cekaca=10
+datoteka.dnevnika=djockovic_dnevnik_1.csv
+server.udaljenosti.dozvoljeni=localhost,127.0.0.1,192.168.1.100

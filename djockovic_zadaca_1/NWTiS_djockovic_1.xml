@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NWTiS 2021, Denis Jocković</comment>
+<entry key="port">8000</entry>
+<entry key="maks.cekaca">10</entry>
+<entry key="sjednica.trajanje">1000000</entry>
+<entry key="datoteka.korisnika">korisnici.csv</entry>
+<entry key="datoteka.dnevnika">djockovic_dnevnik_1.csv</entry>
+<entry key="server.provjera.dozvoljeni">barka.foi.hr,cnn.com,localhost,127.0.0.1,192.168.1.103</entry>
+</properties>
